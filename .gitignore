@@ -1,0 +1,5 @@
+*.html
+html_files/*
+*.log
+test_crawler.py
+*.pyc
